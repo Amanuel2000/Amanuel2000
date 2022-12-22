@@ -1,6 +1,6 @@
   <img src="https://github.com/amanuel2000/amanuel/blob/main/amanuel.jpg" />
 
-My Name is [Amanuel Fenta](https://www.linkedin.com/in/amanuel-fenta-a4683a215). I am a software engineer with interest in solving real-world problems with technology and dependable leadership. I am reader exploring information technology advancements and personal development through books. Writes technical articles in Hashnode and non-technical articles in Medium ([@amanuelf44](https://medium.com/@amanuelf44/)). <br/>
+My Name is [Amanuel Fenta](https://www.linkedin.com/in/amanuel-fenta-a4683a215). I am a software engineer with interest in solving real-world problems with technology and dependable leadership. I am reader exploring information technology advancements and personal development through books. Writes technical articles and non-technical articles in Medium ([@amanuelf44](https://medium.com/@amanuelf44/)). <br/>
 Ask me anything [here](https://mail.google.com/amanuelf44).
 
 <div align="center">
